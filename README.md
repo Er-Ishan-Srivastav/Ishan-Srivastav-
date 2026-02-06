@@ -19,12 +19,19 @@ I am a final-year student specializing in **Big Data Analytics** with 6 months o
 
 ### 🧐 About Me
 
+I am a Computer Science undergraduate with hands-on experience in building **data pipelines, ETL workflows, and cloud-based data systems**. I enjoy working with structured and semi-structured data, optimizing data flows, and building scalable backend solutions.
+
 - 🔭 I’m currently working on **a Sales Data Visualization Dashboard using Python & SQL**
 - 👯 I’m looking to collaborate on **Open Source Big Data projects (using PySpark or Hadoop)**
 - 💛 I’m looking for help with **Mastering advanced Cloud Data Engineering patterns on AWS**
 - 🌱 I’m currently learning **Advanced ETL processes and Data Warehousing architectures**
-- 💬 Ask me about **Python, SQL, Data Analysis, and my internship experience**
-- ⚡ Fun fact: **I believe 80% of Data Engineering is just cleaning data (and I actually enjoy it!)**
+- ⚡ **Fun fact:** I believe 80% of Data Engineering is just cleaning data (and I actually enjoy it!)
+
+**I have worked on projects involving:**
+* Large-scale data processing (50K+ records)
+* Data validation & transformation using Python
+* Cloud deployment using AWS
+* SQL-based analytics and reporting
 
 ---
 
@@ -47,14 +54,6 @@ I am a final-year student specializing in **Big Data Analytics** with 6 months o
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
 
-**Data Science & Visualization**
-<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
 **Cloud & Tools**
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -62,6 +61,30 @@ I am a final-year student specializing in **Big Data Analytics** with 6 months o
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Data Science & Visualization**
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 BrillX – AI-Based Learning Platform
+* Built a scalable backend using **Python & FastAPI**
+* Implemented data pipelines for content processing
+* Designed modular architecture for high availability
+
+#### 🔹 Encryption & Decryption Tool
+* Implemented **AES-256 encryption** in Python
+* Optimized data handling for large files to ensure security & performance
+
+#### 🔹 Data Engineering Practice
+* **ETL pipelines** using Python & SQL with data cleaning and transformation
+* Worked with CSV, JSON, and relational datasets
 
 ---
 
