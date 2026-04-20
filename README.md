@@ -97,6 +97,13 @@ I am a Computer Science undergraduate with hands-on experience in building **dat
 ![](https://nirzak-streak-stats.vercel.app/?user=Er-Ishan-Srivastav&theme=shadow_red&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Ishan-Srivastav&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Bustean's github stats](https://github-readme-stats.vercel.app/api?username=BusteanHAN&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=0d1117&count_private=true&hide_border=true)
+<a href="https://www.youtube.com/watch?v=5q0gJs2eYB4">
+  <img src="https://cdn.discordapp.com/attachments/897569464684535860/1013727446706696192/02rikkaspinleft.gif" width="180"/>
+</a>
+<!-- <img src="https://cdn.discordapp.com/attachments/897569464684535860/1013727446706696192/02rikkaspinleft.gif" width="200" /> -->
+<!-- ![](https://cdn.discordapp.com/attachments/897569464684535860/1013727446706696192/02rikkaspinleft.gif =200x200) -->
+<!--
 
 ### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Er-Ishan-Srivastav&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
